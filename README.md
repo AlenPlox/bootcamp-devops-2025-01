@@ -1,1 +1,1 @@
-# bootcamp-devops-2025-01
+# Bootcamp devops 2025
